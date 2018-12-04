@@ -1,0 +1,60 @@
+{
+    "count": 2,
+    "messages": [],
+    "entities": [
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "DPVG393NQBW0RHAFY398"
+                },
+                "retrievalId": "z062585e2-cca3-4910-9ffb-8f681a4ad628",
+                "references": [],
+                "fingerprint": "13503c0b3ec7ef437086bb2b2fa964c1",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "external-video",
+                        "version": "1",
+                        "title": "Les copains: E&#769;pisode 1, clip 4"
+                    },
+                    "youtube": {
+                        "videoId": "_oNDKHMaajU",
+                        "title": "video 1"
+                    }
+                },
+                "creationDate": "2018-05-31T10:37:55.002-04:00",
+                "createdBy": "nkindraka",
+                "id": "70720bee-4924-4872-8757-432589897cb3"
+            }
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "GJBW5SPHADQDHYLXP052"
+                },
+                "retrievalId": "zb48949f8-0f97-47cd-ac00-58c652737a2c",
+                "references": [],
+                "fingerprint": "209b7fa084d9ccc865c31d7c6c2ba934",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "external-video",
+                        "version": "1",
+                        "title": ""
+                    },
+                    "youtube": {
+                        "videoId": "JFmsrJFRxxI",
+                        "title": "video 2"
+                    }
+                },
+                "creationDate": "2018-06-21T13:53:55.423-04:00",
+                "createdBy": "siyer",
+                "id": "4cf03c51-6e74-467f-9d52-473525acb3d1"
+            }
+        }
+    ]
+}

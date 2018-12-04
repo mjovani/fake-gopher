@@ -1,0 +1,29 @@
+{
+    "count": 8,
+    "messages": [],
+    "entities": [
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "VRFSZ8ETSVLN2LGJJ967"
+                },
+                "retrievalId": "z781f42d5-4f0a-4101-b446-9eb42a78bb1b",
+                "references": [],
+                "fingerprint": "ec2ebfe3c6584aa6ec08719c319b208e",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "image",
+                        "version": "3",
+                        "title": ""
+                    }
+                },
+                "creationDate": "2018-05-31T09:47:57.319-04:00",
+                "createdBy": "nkindraka",
+                "id": "b66a5fdf-8e77-4767-9ebf-bdb5e4b5415a"
+            }
+        }
+    ]
+}

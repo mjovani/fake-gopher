@@ -1,0 +1,52 @@
+{
+    "count": 2,
+    "messages": [],
+    "entities": [
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "RZDJDUP8HS84X9ASY309"
+                },
+                "retrievalId": "z1c2da7e2-2dcf-4a8a-926e-5a0c55c3e156",
+                "references": [],
+                "fingerprint": "e4bd944a2beb94f0fda0ef685f4c8407",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "audio",
+                        "version": "1",
+                        "title": "wl_atelier1e_m03_147"
+                    }
+                },
+                "creationDate": "2018-05-31T09:58:00.039-04:00",
+                "createdBy": "nkindraka",
+                "id": "f71b4e47-ecbf-4b41-8f3c-d8c49da3aa50"
+            }
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "ZHRHRMQNU6EHSHN9P996"
+                },
+                "retrievalId": "z18b37784-c519-4295-b091-42be4b46224a",
+                "references": [],
+                "fingerprint": "929fc27aeae4453e9a5ae46619a33dda",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "audio",
+                        "version": "1",
+                        "title": ""
+                    }
+                },
+                "creationDate": "2018-05-31T10:44:31.196-04:00",
+                "createdBy": "nkindraka",
+                "id": "194359d8-d61f-44be-9ed8-ba624c830a04"
+            }
+        }
+    ]
+}
