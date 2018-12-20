@@ -1,5 +1,5 @@
 {
-    "count": 1,
+    "count": 2,
     "messages": [
         "GET time(ms): 581 for revisions for checkpoint: 38ab6ec9-d692-4d6d-bd54-9aea1654ad09",
         "GET time(ms): 573 for revisions for checkpoint: 38ab6ec9-d692-4d6d-bd54-9aea1654ad09",
@@ -29,6 +29,40 @@
                         "version": "1.0",
                         "derivative": "",
                         "title": "choucroute",
+                        "description": ""
+                    }
+                },
+                "creationDate": "2018-11-19T16:17:13.430Z",
+                "createdBy": "christophe_feuvre",
+                "id": "74e2591a-b6fb-40f4-9b5d-94cf71e38dad"
+            },
+            "facets": [
+                null
+            ]
+        },
+	{
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "adf",
+                    "fileId": "NNXDXDY5EAHRZ67HJ767"
+                },
+                "retrievalId": "aa62d492-f49d-45a8-8dc9-d4fd25f97cee",
+                "references": [
+                    {
+                        "tenantId": "cengage",
+                        "fileType": "cars",
+                        "fileId": "BWZPHRHNTKVBHA18W321"
+                    }
+                ],
+                "fingerprint": "eeacc2e336dda3026381d89f179baad0",
+                "attributes": {
+                    "subType": {
+                        "type": "compound-activity",
+                        "subType": "broadsheet",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "demo",
                         "description": ""
                     }
                 },
