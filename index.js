@@ -33,7 +33,7 @@ app.post('/services/gopher/query/workspace/:clWorkspaceId/revisions', jsonParser
         return res.send(v)
     }
     else if (JSON.stringify(query).includes('video')) {
-        let v = JSON.parse(JSON.stringify(videos))
+        let v = JSON.parse(JSON.stringify(externalVideos))
         // v.assets = v.assets.map(asset => asset.asset)
         return res.send(v)
     }
