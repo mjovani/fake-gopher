@@ -14,6 +14,8 @@ const externalVideos = require('./external-videos.json')
 
 const broadsheets = require('./broadsheets.json')
 
+const cars = require('./cars.json')
+
 const jsonParser = bodyParser.json()
 
 app.get('/', (_req, res) => {
@@ -44,6 +46,11 @@ app.post('/services/gopher/query/workspace/:clWorkspaceId/revisions', jsonParser
         console.log(JSON.stringify(broadsheets))
         // a.assets = a.assets.map(asset => asset.asset)
         return res.send(broadsheets)
+    }
+    else if (JSON.stringify(query).includes('cars')) {
+        console.log(JSON.stringify(cars))
+        // a.assets = a.assets.map(asset => asset.asset)
+        res.send(cars);
     }
     else {
         let i = JSON.parse(JSON.stringify(images))
