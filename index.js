@@ -11,7 +11,7 @@ const audios = require('./audios.json')
 
 const images = require('./images.json')
 
-const externalVideos = require('./external-videos.json')
+const externalVideos = require('./external-video.json')
 
 const broadsheets = require('./broadsheets.json')
 
@@ -31,7 +31,7 @@ app.post('/services/gopher/query/workspace/:clWorkspaceId/revisions', jsonParser
     if (JSON.stringify(query).includes('external-video')) {
         const response = getFromWorkspace('external-video', req.params.clWorkspaceId)
         if (response) {
-            return res.send(JSON.parse(response))
+            return res.send(response)
         }
         let v = JSON.parse(JSON.stringify(externalVideos))
         // a.assets = a.assets.map(asset => asset.asset)
@@ -40,7 +40,7 @@ app.post('/services/gopher/query/workspace/:clWorkspaceId/revisions', jsonParser
     else if (JSON.stringify(query).includes('video')) {
         const response = getFromWorkspace('video', req.params.clWorkspaceId)
         if (response) {
-            return res.send(JSON.parse(response))
+            return res.send(response)
         }
         let v = JSON.parse(JSON.stringify(externalVideos))
         // v.assets = v.assets.map(asset => asset.asset)
@@ -49,7 +49,7 @@ app.post('/services/gopher/query/workspace/:clWorkspaceId/revisions', jsonParser
     else if (JSON.stringify(query).includes('audio')) {
         const response = getFromWorkspace('audio', req.params.clWorkspaceId)
         if (response) {
-            return res.send(JSON.parse(response))
+            return res.send(response)
         }
         let a = JSON.parse(JSON.stringify(audios))
         // a.assets = a.assets.map(asset => asset.asset)
@@ -58,7 +58,7 @@ app.post('/services/gopher/query/workspace/:clWorkspaceId/revisions', jsonParser
     else if (JSON.stringify(query).includes('broadsheet')) {
         const response = getFromWorkspace('broadsheet', req.params.clWorkspaceId)
         if (response) {
-            return res.send(JSON.parse(response))
+            return res.send(response)
         }
         console.log(JSON.stringify(broadsheets))
         // a.assets = a.assets.map(asset => asset.asset)
@@ -67,7 +67,7 @@ app.post('/services/gopher/query/workspace/:clWorkspaceId/revisions', jsonParser
     else if (JSON.stringify(query).includes('cars')) {
         const response = getFromWorkspace('cars', req.params.clWorkspaceId)
         if (response) {
-            return res.send(JSON.parse(response))
+            return res.send(response)
         }
         console.log(JSON.stringify(cars))
         // a.assets = a.assets.map(asset => asset.asset)
@@ -76,7 +76,7 @@ app.post('/services/gopher/query/workspace/:clWorkspaceId/revisions', jsonParser
     else {
         const response = getFromWorkspace('images', req.params.clWorkspaceId)
         if (response) {
-            return res.send(JSON.parse(response))
+            return res.send(response)
         }
         let i = JSON.parse(JSON.stringify(images))
         console.log(JSON.stringify(i))
@@ -87,11 +87,15 @@ app.post('/services/gopher/query/workspace/:clWorkspaceId/revisions', jsonParser
 
 
 function getFromWorkspace(type, workspace) {
-    const file = `/worksapces/${workspace}/${type}.json`
+    console.log(`getting ${type} file from workspace: ${workspace}`)
+    const file = `${__dirname}/workspaces/${workspace}/${type}.json`
+    console.log(file)
     if(fs.existsSync(file)) {
+        console.log('file exists :)')
         const contents = fs.readFileSync(file)
         return JSON.parse(contents)
     }
+    console.log('No file found, defaulting to dumb shit.')
     return null
 }
 
