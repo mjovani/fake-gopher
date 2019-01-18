@@ -1,0 +1,2319 @@
+{
+    "count": 78,
+    "messages": [
+        "GET time(ms): 62 for revisions for workspace: 82659092-5006-4ccc-8802-4a0ce3f77181",
+        "FINAL HYDRATE time(ms): 349 for revisions"
+    ],
+    "entities": [
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "CQYXYCK3BR9JBUA18844"
+                },
+                "retrievalId": "a2b7bb40-7afc-44c5-8335-4bfba36ad1f3",
+                "references": [],
+                "fingerprint": "8ce16046d7bba77250b4da713a8f2db0",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "title",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-13T14:06:52.156Z",
+                "createdBy": "luan_jubica",
+                "id": "727821ba-8bf0-42df-a7b2-24f4db45065c"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "THMRRRUCHNWHBN9VQ414"
+                },
+                "retrievalId": "0f1e8975-b7e0-4624-92d4-d5dd5910fdb9",
+                "references": [],
+                "fingerprint": "18b9c10efe3fa9c455688cfcfb0fb0bf",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "dd",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-30T15:31:43.386Z",
+                "createdBy": "luan_jubica",
+                "id": "1e7e7c5f-703b-457a-be2b-9b5b4a5a3d8c"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "RXLH12BMPCB7PPRKS230"
+                },
+                "retrievalId": "1b693b79-93f5-4f33-a549-6682955ca330",
+                "references": [],
+                "fingerprint": "dfb1deee60f90773acdcd82dc96dbc12",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "essay",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Example of Essay Type",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "ESSAY"
+                    ]
+                },
+                "creationDate": "2018-11-16T01:26:52.967Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "3da782f5-3959-4671-8f40-2e22f5ce0992"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "YFYBCLDQ3MT7HHPEY628"
+                },
+                "retrievalId": "3c7c1710-064c-46ea-8705-eecc9027662e",
+                "references": [],
+                "fingerprint": "cd43d18a6c94599bf5dc35065d8deefb",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "multi-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Example of MS - Shuffle answer yes",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTI_SELECT"
+                    ]
+                },
+                "creationDate": "2018-11-16T01:26:53.375Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "4f2d0363-c1bf-43e6-996b-cdc1f26ca2ab"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "GPWVKVUMESR37SNY6545"
+                },
+                "retrievalId": "48331188-628d-4dc8-8111-2487c95d27b4",
+                "references": [],
+                "fingerprint": "d39954061a7e125e4a917e6633eba5a6",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "dd",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-30T14:21:24.922Z",
+                "createdBy": "luan_jubica",
+                "id": "a25005a9-0a74-4e91-864d-3bf27e01388f"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "EFSTNBGNC8LW582UJ693"
+                },
+                "retrievalId": "8a673629-e099-471f-9e0d-9a63d2b1a26b",
+                "references": [],
+                "fingerprint": "4dcee55d3500315e038f3cf481218e18",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "awd",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-04T10:08:17.011Z",
+                "createdBy": "Editeur Test",
+                "id": "4a8d9931-f18e-4655-945a-43c74975a390"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "YKKVT9JQNPR4N1G6U318"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "KJXHNGJ8KV720J9QZ048"
+                },
+                "retrievalId": "4c42fa17-06a1-4d02-9498-101f1de36574",
+                "references": [],
+                "fingerprint": "7e2a5d396da52f5fc5b7c30f3fda9419",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Instance-id test",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-30T09:53:38.173Z",
+                "createdBy": "luan_jubica",
+                "id": "0c98b766-e49a-4bb8-adf0-209579dae6f3"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "GXLJJH91EW732ZKZQ412"
+                },
+                "retrievalId": "9eb53d00-4d62-4b54-b94b-e6a563ff2883",
+                "references": [],
+                "fingerprint": "ae837d11cb1a22c3c478442266e29f4f",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "My Static Item",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-13T15:20:35.613Z",
+                "createdBy": "luan_jubica",
+                "id": "3e313fc8-2b64-4f1e-b8be-953e333d4318"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "HQTN5KMCCK1QEEV5R219"
+                },
+                "retrievalId": "0b153cfa-f73a-45a8-b506-9a577d803672",
+                "references": [],
+                "fingerprint": "dfa37749c8b3866d5b3c6f00173651bb",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "multi-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Multi Select",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTI_SELECT"
+                    ]
+                },
+                "creationDate": "2018-11-21T08:12:29.962Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "0ed6e61a-6926-4fee-b01c-d69426127af2"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "HHGLRLCT5DDAJC4XQ936"
+                },
+                "retrievalId": "1ade2b8d-016f-45fa-8b76-0cee750a5c14",
+                "references": [],
+                "fingerprint": "9ba1e64eb4d0b32b88710852cbbf8e17",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "matching",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Matching Question",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MATCHING_POINTER"
+                    ]
+                },
+                "creationDate": "2018-12-20T05:16:28.143-05:00",
+                "createdBy": "luan_jubica",
+                "id": "848d4a31-555a-4397-abc7-3e1530933c1e"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "WGTL1HCKQ0BE10M44283"
+                },
+                "retrievalId": "6b995baa-89c0-4e5e-b884-b1f18a531519",
+                "references": [],
+                "fingerprint": "8b9e4326123c70bd1770bcd9ab2b26d2",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "ddd",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T13:30:43.093Z",
+                "createdBy": "luan_jubica",
+                "id": "41aefe67-820b-4088-bab5-6dcd713a0206"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "YZMZEX7M65UJWKJKH657"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "CUAEGZCRMKWVEK8NC291"
+                },
+                "retrievalId": "c98192e9-9148-4854-9372-3ef27c871246",
+                "references": [],
+                "fingerprint": "70eae9ef77111f5dbe972c751f6b9f4e",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "ddd",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-30T15:52:50.313Z",
+                "createdBy": "luan_jubica",
+                "id": "8f7ecdfa-3a98-46cd-a7a8-4ed78e92c946"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "YDTJZHHZY3RBF2F5N169"
+                },
+                "retrievalId": "770f8af1-ce3c-48f9-a244-9c705f973b0d",
+                "references": [],
+                "fingerprint": "a928bedc5f496dd25fe3cfd41a999526",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "adwa",
+                        "description": "awdw a"
+                    },
+                    "questionTypes": [
+                        "DROPDOWN"
+                    ]
+                },
+                "creationDate": "2018-12-03T13:26:49.802Z",
+                "createdBy": "luan_jubica",
+                "id": "1c17adac-8e00-463e-ad04-afd8b5f623d7"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "ZRYC4LEPPYGNYT72Z346"
+                },
+                "retrievalId": "69db964c-02e5-4cda-8f40-28a6a20dee97",
+                "references": [],
+                "fingerprint": "2c97a8b6b5b9c90c79788338fbb8f2be",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "wer",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T11:17:09.076Z",
+                "createdBy": "Editeur Test",
+                "id": "74af9047-152b-493c-99f6-2fc04de54ed1"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "KYZSMK4TJLY45KPPU746"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "YAVHX5T4NYJU5ZMWD283"
+                },
+                "retrievalId": "9064351c-9f5c-460f-a4b8-0abf143dab84",
+                "references": [],
+                "fingerprint": "0676328a0263881e8de9b05853818d14",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "p",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T10:56:50.688Z",
+                "createdBy": "Editeur Test",
+                "id": "24295d8b-7c2d-48ea-85d4-7c3e28b39336"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "UFQLZEBNBHUR1P7BU846"
+                },
+                "retrievalId": "3870eb30-2d26-4aab-a5c8-dca7d25d3ed2",
+                "references": [],
+                "fingerprint": "e87f58669396aab9059f412f744bc8a3",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Example of FITB - Text Entry",
+                        "description": "Enter correct  answer"
+                    },
+                    "questionTypes": [
+                        "FITB_TEXT_ENTRY"
+                    ]
+                },
+                "creationDate": "2018-11-16T01:26:53.034Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "60845d33-df61-4c7d-bde8-215677dc8afa"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "BNVCATJLUYW1FHJEQ512"
+                },
+                "retrievalId": "4efc5596-44b5-426d-bd2e-69ab9f41893e",
+                "references": [],
+                "fingerprint": "53239df8c8865744287aaae2cf3e0f5b",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "multi-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "CCP-571 MS item Regression 2 SHUFFLE NO",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTI_SELECT"
+                    ]
+                },
+                "creationDate": "2018-11-12T21:56:31.922Z",
+                "createdBy": "kris_tapper",
+                "id": "587fea1f-cb6b-4a59-a541-dd1b99717430"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "NRYLLB4JWWZK9ASE0094"
+                },
+                "retrievalId": "53961744-b355-47e7-a583-b71e86ffbacf",
+                "references": [],
+                "fingerprint": "0f9e5e6e39dad868c45af68fbb8fe3c3",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "true-false",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "CCP-1340 TF Item",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-05T14:28:39.673Z",
+                "createdBy": "kris_tapper",
+                "id": "8fab8226-b191-45b5-9505-e2daa8c66a26"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "JBTSFC1BWQ8DK4XEJ578"
+                },
+                "retrievalId": "21d1654a-c9c7-41f5-94e1-dc260f44a0c2",
+                "references": [],
+                "fingerprint": "1924f3fdae7d44315b55238ea3a1bd55",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "single-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Single Select",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTIPLE_CHOICE"
+                    ]
+                },
+                "creationDate": "2018-12-20T06:30:32.592-05:00",
+                "createdBy": "luan_jubica",
+                "id": "69670e5d-769f-4980-ab4c-49c7fdcacfec"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "QREB8NVQ6YNR2R4GR886"
+                },
+                "retrievalId": "b1ef2f94-50b1-4feb-b2b9-d6acab9a40f4",
+                "references": [],
+                "fingerprint": "ded10a30840ab5c2cb9b1859ed78c8eb",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "true-false",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "True False",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-13T13:58:30.081Z",
+                "createdBy": "luan_jubica",
+                "id": "578f67fa-241f-4387-8f8e-d1f2264c4340"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "JDEPUSQ4XKE36KHR1098"
+                },
+                "retrievalId": "b5a139c1-1855-4195-93f3-8330f2017d88",
+                "references": [],
+                "fingerprint": "68f786ea2b54997de76cb94be13fe83b",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "awd",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-27T15:53:58.373Z",
+                "createdBy": "luan_jubica",
+                "id": "1e424aaf-93e5-4dbd-95c3-40cbbc4ed229"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "KGRT8KGCWLV2RVLNB150"
+                },
+                "retrievalId": "1d53773f-c736-4c4a-a3df-27aec1d5285e",
+                "references": [],
+                "fingerprint": "1569dc23881fd01f00224aaabb0a0de8",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "single-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "CCP-1340 SS item",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTIPLE_CHOICE"
+                    ]
+                },
+                "creationDate": "2018-11-05T14:27:50.599Z",
+                "createdBy": "kris_tapper",
+                "id": "ca86fab6-7016-46f3-bd6b-33134fcebc88"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "PXRMBYRKFPVQS2RRX908"
+                },
+                "retrievalId": "33b70853-9870-48e5-bf20-573e90da2fef",
+                "references": [],
+                "fingerprint": "e8869218107687a658a19748e7931559",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "e",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T10:51:49.056Z",
+                "createdBy": "Editeur Test",
+                "id": "b4718327-de44-41e9-9018-eb741312b690"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "HWPSMYQ7MV5AMT90J691"
+                },
+                "retrievalId": "f8701ee1-d1ff-48fd-a31b-594661a22d95",
+                "references": [],
+                "fingerprint": "c5b6d2b484646d707643a14b3279f2ba",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "matching",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "CCP-1340 Matching Item",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MATCHING_POINTER"
+                    ]
+                },
+                "creationDate": "2018-11-02T18:34:56.159Z",
+                "createdBy": "kris_tapper",
+                "id": "85d35d0f-cae7-493d-b9ce-9e5b8aba43e6"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "BCFK4QFBGET2C8WU6275"
+                },
+                "retrievalId": "aa3e38b5-4c57-418a-8101-e9b17a75151b",
+                "references": [],
+                "fingerprint": "6b9c54f3984a65782740259f3e51896c",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "essay",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "CCP-1340 Essay item",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "ESSAY"
+                    ]
+                },
+                "creationDate": "2018-11-02T18:29:31.873Z",
+                "createdBy": "kris_tapper",
+                "id": "4e9517af-5052-439c-99b3-49c1631e0f4a"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "MPVU8H3E5C1SAB3UP141"
+                },
+                "retrievalId": "618e1860-e13d-4c93-8d7f-45968bb2f0bc",
+                "references": [],
+                "fingerprint": "31e0aac572079515609105d53cac6e4a",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "",
+                        "description": "answer correctincorrect"
+                    },
+                    "questionTypes": [
+                        "DROPDOWN"
+                    ]
+                },
+                "creationDate": "2018-11-27T15:19:05.525Z",
+                "createdBy": "luan_jubica",
+                "id": "36e7a9c3-d61c-4973-927c-bbebdfa981ce"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "XCKMV278VDQBVJDPP699"
+                },
+                "retrievalId": "b5b214fa-9528-4348-b2d8-4f7d8dade946",
+                "references": [],
+                "fingerprint": "1c3a712a11804829b6adcd5d976eda43",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "d",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-04T09:59:23.651Z",
+                "createdBy": "Editeur Test",
+                "id": "3d9229d5-47f0-4990-84e8-606560258aba"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "XWRD1UNQ024MS7UYS682"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "BNDDHCQJYEYE8Q0GJ509"
+                },
+                "retrievalId": "6fd10774-15fb-4eda-8f21-14daaa2ad4d7",
+                "references": [],
+                "fingerprint": "9ffa25310852d9eae0a019807caf7801",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "asdfg",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-13T15:15:54.310Z",
+                "createdBy": "luan_jubica",
+                "id": "c63bec34-4ec6-4d2b-9f03-d62907ed5939"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "KPYCZQ5C84HMR20VY301"
+                },
+                "retrievalId": "1772ed6a-eb3e-490b-a2a9-badda57617a8",
+                "references": [],
+                "fingerprint": "520083fd8068e7955c539b966df5c79a",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Some FITB dropdown item",
+                        "description": "test correctincorrect"
+                    },
+                    "questionTypes": [
+                        "DROPDOWN"
+                    ]
+                },
+                "creationDate": "2018-11-02T19:46:33.469Z",
+                "createdBy": "kris_tapper",
+                "id": "cdd26883-58ee-46cc-8039-ad8603620f49"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "DJEGSKNAFRKY5X77D433"
+                },
+                "retrievalId": "b23cbefa-e230-4262-a6ba-31d5c62ca860",
+                "references": [],
+                "fingerprint": "da5d5447ddd4318aa1e5a9cae592d04d",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank-cloze",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "FITB Cloze quesstion",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "FITB_CLOZE"
+                    ]
+                },
+                "creationDate": "2018-11-13T13:34:57.924Z",
+                "createdBy": "luan_jubica",
+                "id": "bf497f05-2c9d-48f4-a556-ca83e502297f"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "CDQMD1VEHLEEC6PSW193"
+                },
+                "retrievalId": "2504bab2-25d2-4fe2-bc1d-2c6f1bd9fd6d",
+                "references": [],
+                "fingerprint": "46d3a6424b7da6a1f901011998d4efc5",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "ddd",
+                        "description": "awdawddawd"
+                    },
+                    "questionTypes": [
+                        "DROPDOWN"
+                    ]
+                },
+                "creationDate": "2018-12-03T13:30:42.463Z",
+                "createdBy": "luan_jubica",
+                "id": "d4c6b0a4-247e-46b1-a424-b2e25defdd50"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "YZMZEX7M65UJWKJKH657"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "UUWT8RQFNT6K4QRV9776"
+                },
+                "retrievalId": "7caef40f-61aa-468c-8bf1-56eb83d78b86",
+                "references": [],
+                "fingerprint": "98b75d1242d40092c3d0d7de27406778",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "multi-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "CCP-1340 MS Item",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTI_SELECT"
+                    ]
+                },
+                "creationDate": "2018-11-13T10:11:16.325Z",
+                "createdBy": "luan_jubica",
+                "id": "597fcc3f-a695-4ec9-87ea-b262f1582635"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "SXBJYGAWC5G2UCZRD736"
+                },
+                "retrievalId": "3c78bab1-8149-429b-bded-27863b219166",
+                "references": [],
+                "fingerprint": "bd8f74c0d73c2c929bbeae174cc22c6a",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "multi-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "ufhtjytsdf",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTI_SELECT"
+                    ]
+                },
+                "creationDate": "2018-11-27T15:17:44.565Z",
+                "createdBy": "luan_jubica",
+                "id": "7ce938e5-2d75-462b-9db7-812f306bef68"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "ENTD5T24D34C71YKC962"
+                },
+                "retrievalId": "3a4cfea4-6fca-4ce1-ad02-fcdc560556b1",
+                "references": [],
+                "fingerprint": "ec25f3ada80657aaa7664042eeed6154",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "some text",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-13T15:03:39.255Z",
+                "createdBy": "luan_jubica",
+                "id": "56a64b5a-ef97-423d-a3cd-2c6bebb9f230"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "PETAPNSH7HRDPWVXG818"
+                },
+                "retrievalId": "398cb422-582a-4e5a-8c7c-8cba96889c05",
+                "references": [],
+                "fingerprint": "dd98a98ad6c517a347378bd49b3e2b42",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Tit",
+                        "description": "ddd"
+                    },
+                    "questionTypes": [
+                        "DROPDOWN"
+                    ]
+                },
+                "creationDate": "2018-12-03T11:25:27.946Z",
+                "createdBy": "Editeur Test",
+                "id": "13e14fce-42bb-417e-b915-9519222f4ff9"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "JRJZVZ1M3LP6EGKLS056"
+                },
+                "retrievalId": "725983b7-e548-43e5-a3ee-08699e4fefdf",
+                "references": [],
+                "fingerprint": "3e5d92568c0fc6ff16d9d80979584d2d",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "instance id test (2)",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-30T15:21:19.766Z",
+                "createdBy": "luan_jubica",
+                "id": "8197a7a7-fcf1-4a15-8704-b29431685e28"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "GXTFDP0Z27THUQ4VY008"
+                },
+                "retrievalId": "f58fc39b-b194-4c77-9c8d-074f878ed4c0",
+                "references": [],
+                "fingerprint": "070087062c4bd735cc19d9cec74f3caf",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "multi-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Example of MS - Shuffle answer yes",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTI_SELECT"
+                    ]
+                },
+                "creationDate": "2018-11-16T05:28:00.800Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "b364e03e-1f21-41eb-8359-59ddc4bb087a"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "JUHUL856D5QVQKWWK094"
+                },
+                "retrievalId": "5597c461-4f96-4a54-9371-23b4add1d432",
+                "references": [],
+                "fingerprint": "af114600aa11553902f23a453bd3cf64",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "multi-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Multiple Choice",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTI_SELECT"
+                    ]
+                },
+                "creationDate": "2018-11-21T08:00:28.108Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "8dfbe817-a98e-4900-bf01-ebfec6619d18"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "HTDHP9YH4SG8QNHEW785"
+                },
+                "retrievalId": "ca2bea84-1f83-4e4b-889d-d5976fb5f522",
+                "references": [],
+                "fingerprint": "8112a286575b93d6415efd92b5a5a79a",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Static Item",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-06T15:56:59.392Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "b502f311-681a-47ae-b281-6e350b4823a2"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "SHQVKQEP9T6TJUH74287"
+                },
+                "retrievalId": "20a873c8-8668-41ae-b6a7-251408ac1a93",
+                "references": [],
+                "fingerprint": "627290dd922d902c224ca4ef832e28d3",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "test item 1 authored in activity to save ADF",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-12T18:19:14.031Z",
+                "createdBy": "kris_tapper",
+                "id": "25546990-4355-4afa-a0d6-a523f8e24645"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "FECPKBZG342W54UJE665"
+                },
+                "retrievalId": "31fc5425-b891-4a3f-ace7-f7a04e22c189",
+                "references": [],
+                "fingerprint": "181030b55a72ba553f1705e93646c947",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "d",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T11:15:53.520Z",
+                "createdBy": "Editeur Test",
+                "id": "efa9988b-b947-4285-9aeb-4073397a22d4"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "KYZSMK4TJLY45KPPU746"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "GWWTDQXQJ59U8Z2U3520"
+                },
+                "retrievalId": "1963f9a3-c296-4f5e-babe-e46a53104ca9",
+                "references": [],
+                "fingerprint": "eeaec20aa9e89b0413e38350b5f8437d",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "ddd",
+                        "description": "adawddawd"
+                    },
+                    "questionTypes": [
+                        "DROPDOWN"
+                    ]
+                },
+                "creationDate": "2018-12-03T13:22:29.511Z",
+                "createdBy": "luan_jubica",
+                "id": "28be593f-c427-4451-9dfe-4dd8a9f59161"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "ZJJN474Z6W4U1QL5V385"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "MJXYXHPLJHX3PH5AF301"
+                },
+                "retrievalId": "0aecda50-c84f-419c-bc94-2575e1cdc7c7",
+                "references": [],
+                "fingerprint": "253cde5aa8293425d4b01306bfcacdc8",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Some q",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T11:25:27.917Z",
+                "createdBy": "Editeur Test",
+                "id": "e02c9255-489b-48e5-a075-9e34a0ba360c"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "SYXPN71QF849A1ALQ010"
+                },
+                "retrievalId": "31363ac0-88ae-4c9e-950e-3e544b2c9c12",
+                "references": [],
+                "fingerprint": "a64416b7b1a00f2896792f45664fc7d2",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "wadawdd",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T13:30:42.413Z",
+                "createdBy": "luan_jubica",
+                "id": "8184014d-5c24-4ff9-8e57-44ef523d8b23"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "YZMZEX7M65UJWKJKH657"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "FFSXX7K52HN54ZTP0974"
+                },
+                "retrievalId": "26045e05-9be8-4af1-99b7-da078c6aec5d",
+                "references": [],
+                "fingerprint": "0a3b8b7f6a5457687940ffccbc4f0958",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank-cloze",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Example of FITB CLOZE",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "FITB_CLOZE"
+                    ]
+                },
+                "creationDate": "2018-11-16T01:26:52.963Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "c9b57137-3cf8-4b2f-96ea-44763e36ee06"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "MPHBT4BBDY9DS0LBA450"
+                },
+                "retrievalId": "9dc850af-6766-4258-948c-ecfae8845129",
+                "references": [],
+                "fingerprint": "887e158596a686da5704ed3ddb77f968",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "ddawd",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T13:22:48.850Z",
+                "createdBy": "luan_jubica",
+                "id": "b097e4ff-b529-46b6-bb80-20402e4f0d86"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "ZJJN474Z6W4U1QL5V385"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "MTVZC1DQUG1NZL2SE365"
+                },
+                "retrievalId": "8979f49f-d1bc-48c3-9dc7-9fc0dbcaf487",
+                "references": [],
+                "fingerprint": "3e53beabcfa272cf56f267e69d527fb2",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank-cloze",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Example of FITB CLOZE",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "FITB_CLOZE"
+                    ]
+                },
+                "creationDate": "2018-11-16T05:24:20.836Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "8cdac9af-68b9-41fe-a379-e226ba3b0e66"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "MVFVY5QJV71AQWZ6L003"
+                },
+                "retrievalId": "63aaeaf1-d801-477d-b3da-8631306f8c26",
+                "references": [],
+                "fingerprint": "beca22159433519b5bc402e39883d1bd",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "multi-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTI_SELECT"
+                    ]
+                },
+                "creationDate": "2018-11-27T15:43:01.481Z",
+                "createdBy": "luan_jubica",
+                "id": "4e5a9a8a-2321-4fa0-8b65-67af47f9a740"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "FUFWDME8A2J9JWN03741"
+                },
+                "retrievalId": "f1d68882-b85e-4cff-aeeb-480ef8494c09",
+                "references": [],
+                "fingerprint": "4dbff139bb1df8dd6e921e29bab2a652",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "single-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "eeee2",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTIPLE_CHOICE"
+                    ]
+                },
+                "creationDate": "2018-12-04T09:59:23.616Z",
+                "createdBy": "Editeur Test",
+                "id": "d8a2ec46-e435-413e-8926-40f6837a1e51"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "XWRD1UNQ024MS7UYS682"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "DJJFCXDC9R518060Y385"
+                },
+                "retrievalId": "0307b5bd-75fe-4cb1-b39e-57546b1f8623",
+                "references": [],
+                "fingerprint": "5bc4e052d7a67315c9e27bfbee502b98",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "This is example of lengthy title to verify is CGI is pushed off from displaying completely",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-12T14:03:39.187-05:00",
+                "createdBy": "suba_jayakanthan",
+                "id": "66440dc8-9e06-49c5-b188-1d33c267627d"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "XFEHHEL8DJXBLJ7QJ060"
+                },
+                "retrievalId": "24ce35ef-6b2a-4592-8845-0d1f9bea2439",
+                "references": [],
+                "fingerprint": "f980339337834ba457f5156c48bda637",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "fsef",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-27T15:19:05.348Z",
+                "createdBy": "luan_jubica",
+                "id": "37ba2404-cf7c-4a3d-abdf-31beca1a8dcd"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "DWVYDXGQBXM0UWDMC348"
+                },
+                "retrievalId": "7efa5bdc-c83b-4285-8526-fe5347231832",
+                "references": [],
+                "fingerprint": "f93c69f7b717f5ca10b1e92fd34e10e1",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank-cloze",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "CCP-1340 FITB CLOZE Item",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "FITB_CLOZE"
+                    ]
+                },
+                "creationDate": "2018-11-02T18:29:53.353Z",
+                "createdBy": "kris_tapper",
+                "id": "6f7057fa-e12c-46fe-8d25-bf160191b2e3"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "NGQB1WH957Y8BCRR3163"
+                },
+                "retrievalId": "5984cef3-bec6-415e-b10e-88016d102cfa",
+                "references": [],
+                "fingerprint": "0095486a3e74cf26ba955a7c0edc1e45",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "FITB",
+                        "description": "Enter correct  answer"
+                    },
+                    "questionTypes": [
+                        "FITB_TEXT_ENTRY"
+                    ]
+                },
+                "creationDate": "2018-11-06T15:56:59.386Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "0f6b48ea-93d9-4f57-b899-4c635fa82332"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "RNKDGT1K5B6TJ4NCA551"
+                },
+                "retrievalId": "9c239236-5f30-4ca9-98c0-74ca94511bda",
+                "references": [],
+                "fingerprint": "833c022f75a655aa96a61be4b269c23a",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "multi-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "CCP-571 Verfication MS item",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTI_SELECT"
+                    ]
+                },
+                "creationDate": "2018-11-05T17:40:12.433Z",
+                "createdBy": "kris_tapper",
+                "id": "99b7a31f-9da0-4958-9173-1f74535c6b32"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "ESGADZW2UMNARM1L4141"
+                },
+                "retrievalId": "d7976a02-b045-4e9f-86f3-9b66a045af1e",
+                "references": [],
+                "fingerprint": "5a9d184e621bc82a085615a2441052d1",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "CCP-1340 FITB Item",
+                        "description": "select correct option:  correctincorrect 1incorrect 2"
+                    },
+                    "questionTypes": [
+                        "FITB_TEXT_ENTRY"
+                    ]
+                },
+                "creationDate": "2018-11-02T20:11:13.772Z",
+                "createdBy": "kris_tapper",
+                "id": "88c37c32-bc54-45e7-bdf1-2266804fe95e"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "SAKX5TQLC57XNVJ6V447"
+                },
+                "retrievalId": "7a45b5ff-8162-4c2c-a044-0ccc59870022",
+                "references": [],
+                "fingerprint": "1c68ca26a2e15e18d80abbc1e2f5166a",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "FITB - Drop Down",
+                        "description": "Enter correctincorrectnoneall  answer"
+                    },
+                    "questionTypes": [
+                        "DROPDOWN"
+                    ]
+                },
+                "creationDate": "2018-11-06T15:56:59.381Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "50dcae77-298a-4038-be3f-4bb776ed8987"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "TCRPYD7DFQKREFWAJ068"
+                },
+                "retrievalId": "82ccaa2c-536e-4fec-a28d-dc72ce5be5bf",
+                "references": [],
+                "fingerprint": "a7c962c4b28f8211358556d0b30b3b82",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "ww",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-04T10:05:34.258Z",
+                "createdBy": "Editeur Test",
+                "id": "e1c900ba-4cb1-4741-a7f2-36f949b038a0"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "SCEZUHN666C60T7QH122"
+                },
+                "retrievalId": "a50f3846-2b26-41e4-9595-b3671f952d52",
+                "references": [],
+                "fingerprint": "9a672fad0442661c409fdcccf879d6f9",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "CCP-1340 Static Item",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-02T18:22:08.745Z",
+                "createdBy": "kris_tapper",
+                "id": "d8507f88-b933-4f33-acaf-fa319eabc92d"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "DLVVFD9PLNDWFYV74922"
+                },
+                "retrievalId": "d34119f8-60ca-4b7d-aebc-77692b57ce47",
+                "references": [],
+                "fingerprint": "b7435faffb600b8fa5dfa935b3ad4249",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "awdawd",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T13:22:49.198Z",
+                "createdBy": "luan_jubica",
+                "id": "9a6f7a93-4ecb-4471-bd88-423212fa8d33"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "ZJJN474Z6W4U1QL5V385"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "LTKPXNJEATG4HUP3P434"
+                },
+                "retrievalId": "93f42a50-159b-4ce6-b672-77d6b48c9660",
+                "references": [],
+                "fingerprint": "1c5ff7d84313fb10294a023451efa7f9",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "essay",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Example of Essay Type",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "ESSAY"
+                    ]
+                },
+                "creationDate": "2018-11-16T05:24:20.908Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "9ad0a009-a6b3-40d7-b44d-754fdf9512dd"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "GWHYKXN76LXHRVSDH075"
+                },
+                "retrievalId": "8eca4ed1-6e2b-4986-9710-e1b7519d1943",
+                "references": [],
+                "fingerprint": "9dc5ff899ead6fd9f03c89ca9e8c5e6b",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "z",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T11:17:03.397Z",
+                "createdBy": "Editeur Test",
+                "id": "c2685b75-f198-454e-aed6-94acda34a9a9"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "KYZSMK4TJLY45KPPU746"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "KKVCLDRW0YYX25336849"
+                },
+                "retrievalId": "8030b646-a9d7-40a1-a3b6-b4b0e5025221",
+                "references": [],
+                "fingerprint": "a2fcbd857542dbf2c85cab7780dff787",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "essay",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "essay q",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "ESSAY"
+                    ]
+                },
+                "creationDate": "2018-11-13T12:55:53.432Z",
+                "createdBy": "luan_jubica",
+                "id": "c43045bd-e3bc-4828-b9a5-0501a54a03b2"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "UTURCGY0GFX0D3BR1973"
+                },
+                "retrievalId": "ca68d575-f7c2-4849-bc5c-fc9b2a4d5da1",
+                "references": [],
+                "fingerprint": "aed12d06a2de1a2c632d6601d11f9051",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "ddd",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T09:46:54.473Z",
+                "createdBy": "Editeur Test",
+                "id": "a28718a2-edde-447c-bfc7-39da029c8ec1"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "CFTHJ969K9LCJNCPY679"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "BVJMAL537A08FYSRH371"
+                },
+                "retrievalId": "91d7b41f-dc0b-4258-b327-dce1fdeab9f9",
+                "references": [],
+                "fingerprint": "3b8ffaf3195cac20c5294792b96f5396",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "true-false",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "CCP-1474 Weblink RT TF 1",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-15T17:35:22.445Z",
+                "createdBy": "kris_tapper",
+                "id": "29f04100-cba0-4ae4-b9fa-be11ce9b6d12"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "SWXXQ0XBYE6X056D4430"
+                },
+                "retrievalId": "0679da38-682d-49cb-be6c-8a202c99fd1a",
+                "references": [],
+                "fingerprint": "73f2ae25d21eb5505d7cfae098df4b0f",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T13:23:33.491Z",
+                "createdBy": "luan_jubica",
+                "id": "c0e676f1-f8ff-4c89-9c73-fa07df26fc11"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "KYZSMK4TJLY45KPPU746"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "BABGDEJNJSQU5XDHA843"
+                },
+                "retrievalId": "cda8ea65-b269-4d3e-a45d-3cbbfd411850",
+                "references": [],
+                "fingerprint": "9442d799a44c1c2739b344e1f98b0e90",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Example of FITB - Drop down list",
+                        "description": "Enter correctincorrectnonemaybe  answer"
+                    },
+                    "questionTypes": [
+                        "DROPDOWN"
+                    ]
+                },
+                "creationDate": "2018-11-16T01:26:52.895Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "8bd128fe-83cd-408f-9efa-c2b019b4a2d0"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "YLWE8L52NL0MR0L0G508"
+                },
+                "retrievalId": "0cfa88df-6013-4f8d-b296-3793191d73cb",
+                "references": [],
+                "fingerprint": "642dae441a5fbc0cbe7a71a4b783f24f",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "essay",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Make an essay",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "ESSAY"
+                    ]
+                },
+                "creationDate": "2018-11-13T10:25:25.693Z",
+                "createdBy": "luan_jubica",
+                "id": "c2ce8c1b-3cca-4947-a4db-87306a198d0a"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "GDTT5EP39472E477B034"
+                },
+                "retrievalId": "0d830bed-3b2c-421b-8dfb-ed498f3dd649",
+                "references": [],
+                "fingerprint": "59e699fe0c8ee09d120a90a35091f195",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "true-false",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "True false inside compound activity",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-13T10:13:08.592Z",
+                "createdBy": "luan_jubica",
+                "id": "71d2873e-75c1-4140-93f6-ec3230d96be2"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "ZZVHU7FURU9D200E0885"
+                },
+                "retrievalId": "6db09bd0-9456-4fb8-8665-cd0d899bdc44",
+                "references": [],
+                "fingerprint": "2493df96c3500a047ac512a8897f2fd6",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Example of FITB - Drop down list",
+                        "description": "Enter correctincorrectnonemaybe  answer"
+                    },
+                    "questionTypes": [
+                        "DROPDOWN"
+                    ]
+                },
+                "creationDate": "2018-11-16T05:28:55.324Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "7b9b730d-8666-456e-9e49-0b903cb956f8"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "HJFTNAK6R6MDUN61V089"
+                },
+                "retrievalId": "6046d2a3-795f-4cb7-b268-745bfd44ea68",
+                "references": [],
+                "fingerprint": "fea671857bd779d07a2c6debdc7acaf3",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "awd",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-04T10:05:33.964Z",
+                "createdBy": "Editeur Test",
+                "id": "beda276b-7ec8-4592-a60b-85562b15c5d8"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "QKRNVT0YPK1JZQE2F081"
+                },
+                "retrievalId": "39702b62-1dda-4ce8-9137-110ccc16b7e5",
+                "references": [],
+                "fingerprint": "88d44623a8f6417cea87fec7d32be8cf",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "fill-in-the-blank",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Example of FITB - Text Entry",
+                        "description": "Enter correct  answer"
+                    },
+                    "questionTypes": [
+                        "DROPDOWN"
+                    ]
+                },
+                "creationDate": "2018-11-16T05:28:55.258Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "d8fdab40-22d3-462b-8e1d-9e8b28dc595a"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "VBRCMMPDV6P485ESJ158"
+                },
+                "retrievalId": "223e6937-edc7-43c1-81c3-5add076013bf",
+                "references": [],
+                "fingerprint": "1a0cd00640e4f185302c2bbaeb6fabd5",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "dd",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T13:28:03.481Z",
+                "createdBy": "luan_jubica",
+                "id": "be194d35-014f-4e5e-be13-72179dd913f9"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "YZMZEX7M65UJWKJKH657"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "VCSJUFE8BXN3RMDBP998"
+                },
+                "retrievalId": "1b54df90-a1c8-4f96-aded-c65b66d5025b",
+                "references": [],
+                "fingerprint": "25a2a7d38a58342462e97388778dd16f",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "This is Static Item",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-16T05:24:20.820Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "c878aa69-b34c-40ca-8d7d-c0cd198469bd"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "FXQTC0ZN0Y4AVSS4Y720"
+                },
+                "retrievalId": "61db961e-cd5e-441e-989a-b63296c0a16d",
+                "references": [],
+                "fingerprint": "b3c157fa2d2c8ef990ac84ab98741288",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "true-false",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "item to save cor CCP-1340 TF type in activity only",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-05T21:12:06.020Z",
+                "createdBy": "kris_tapper",
+                "id": "ab8fe6a9-d45b-4db2-adc2-724244234ebe"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "GGRRXEDUBN173DFEW666"
+                },
+                "retrievalId": "a745ca15-877d-44d8-b514-dcc524b9ab46",
+                "references": [],
+                "fingerprint": "57817280799b4600c903b52bb68c73c8",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "wada",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-12-03T11:17:04Z",
+                "createdBy": "Editeur Test",
+                "id": "ba9c3958-5fc0-4c54-8bfb-ccff977eed19"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "navigational": [
+                            "KYZSMK4TJLY45KPPU746"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "RWRJGWH4UTM0ZJHGS883"
+                },
+                "retrievalId": "0baecdf0-a64a-4890-b6a1-89aecd04ec17",
+                "references": [],
+                "fingerprint": "de5c7736df4515852e09403525af81f8",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "multi-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "CCP-571 Setting for MS to random true",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTI_SELECT"
+                    ]
+                },
+                "creationDate": "2018-12-07T16:10:03.841Z",
+                "createdBy": "luan_jubica",
+                "id": "7e0ac0b4-9091-401c-a35c-2f6d8791d722"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "WLDTJJBG6Q19C7TET985"
+                },
+                "retrievalId": "477eefe5-e124-40d8-84dc-cbf585cc54bf",
+                "references": [],
+                "fingerprint": "79aca0ad6082d19b5c6de93baf6aa7c5",
+                "attributes": {
+                    "subType": {
+                        "type": "assessment-item",
+                        "subType": "multi-select",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "Multi Choice question",
+                        "description": ""
+                    },
+                    "questionTypes": [
+                        "MULTI_SELECT"
+                    ]
+                },
+                "creationDate": "2018-11-13T13:24:06.583Z",
+                "createdBy": "luan_jubica",
+                "id": "041737b4-fc37-42d6-b7a1-7633dea2bb4d"
+            },
+            "facets": []
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "cars",
+                    "fileId": "WAPLSN6A6MGKQNUQN025"
+                },
+                "retrievalId": "c9a1112c-f37c-4951-89bc-9785193a7dd1",
+                "references": [],
+                "fingerprint": "4b0289df7e8fc107b6cfa5a74feef67d",
+                "attributes": {
+                    "subType": {
+                        "type": "narrative-item",
+                        "subType": "section",
+                        "version": "1.0",
+                        "derivative": "",
+                        "title": "This is Static Item",
+                        "description": ""
+                    },
+                    "questionTypes": []
+                },
+                "creationDate": "2018-11-16T01:26:52.922Z",
+                "createdBy": "suba_jayakanthan",
+                "id": "dfef46d6-9948-4c28-b44e-eeb6d63e6082"
+            },
+            "facets": []
+        }
+    ]
+}

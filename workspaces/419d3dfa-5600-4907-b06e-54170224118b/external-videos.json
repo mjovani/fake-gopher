@@ -1,0 +1,2568 @@
+{
+    "count": 61,
+    "messages": [
+        "GET time(ms): 10 for revisions for workspace: 419d3dfa-5600-4907-b06e-54170224118b",
+        "FINAL HYDRATE time(ms): 590 for revisions"
+    ],
+    "entities": [
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "ATFE7J2SX2BQL9BRX658"
+                },
+                "retrievalId": "z90eb1a6b-4d4d-4431-93b6-7ace5d411add",
+                "references": [],
+                "fingerprint": "bc334c0a441f8df2125b1ff55bfa9ec8",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00049_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:07.215Z",
+                "createdBy": "Cengage Learning",
+                "id": "a51aadb6-ff27-4c41-a8cd-6dbc2e11a1af"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "PXRWVP0MHR6C2RVCP003"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "498",
+                            "title": "kaz00049_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "SWVBLFK6KBT7KYH6U077"
+                },
+                "retrievalId": "zb3ffb8de-e145-49e4-afdf-779d8e13e225",
+                "references": [],
+                "fingerprint": "5a1117b015d63f0aff793625a67f5d7b",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00118_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:04.271Z",
+                "createdBy": "Cengage Learning",
+                "id": "53b5ae72-54a5-4115-81a9-47e72100edae"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "489",
+                            "title": "kaz00118_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "XVTZU7LZJXDZ91Q8L221"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "EDHUV5EYT4JT0K9GN620"
+                },
+                "retrievalId": "z8ba31f9c-c23c-4e7c-9597-9e488bc0476d",
+                "references": [],
+                "fingerprint": "664e39605b13d460f38c92df76f4128c",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00057_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:07.800Z",
+                "createdBy": "Cengage Learning",
+                "id": "f1002609-29b3-4f24-adb7-cffecf1c4690"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "465",
+                            "title": "kaz00057_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "XPALMK8F2EXJVYFZ1707"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "VFMTB40VA6SUMSLYU030"
+                },
+                "retrievalId": "zbcda2f3d-6fc9-43c6-ba4b-c00348108aaa",
+                "references": [],
+                "fingerprint": "e5dde9fa10cef6dfb72f203d33efe556",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00049_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:07.957Z",
+                "createdBy": "Cengage Learning",
+                "id": "974931f3-9076-4832-9e4d-2b19f36bc5f6"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "PXRWVP0MHR6C2RVCP003"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00049_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "GJWNX6EL6DKYU60AQ025"
+                },
+                "retrievalId": "za29737c8-23c9-4450-98af-f32825321cc0",
+                "references": [],
+                "fingerprint": "2e380cd7a8118883b3da33f1db834c6d",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00067_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:12.735Z",
+                "createdBy": "Cengage Learning",
+                "id": "4dd665b6-0a0f-4acb-a8d7-5a32c62a0040"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "496",
+                            "title": "kaz00067_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "YXNUTENPEAF90808Z402"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "AXZG9LT7THJ2B056D385"
+                },
+                "retrievalId": "zf7b98494-faf6-48d9-ac3e-836b15a408c6",
+                "references": [],
+                "fingerprint": "d494194c97f867a500c7e32e5b2bb217",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00073_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:05.050Z",
+                "createdBy": "Cengage Learning",
+                "id": "9bb01f9e-9bb3-4bc0-9a38-ebed1281fff4"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "PDZD3UWYCSCDUAJX1037"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00073_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "RECTZP55VE3BX9SNT956"
+                },
+                "retrievalId": "z01419158-808b-49ba-a0c8-3648ac6f6b0d",
+                "references": [],
+                "fingerprint": "d52281d9adbb6eb0ad05b87203d2f16f",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00063_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:07.336Z",
+                "createdBy": "Cengage Learning",
+                "id": "bd16e2dc-331b-496f-9074-bb660849af52"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "495",
+                            "title": "kaz00063_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "HMSQTS2UDEZX60EBV842"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "FKZZTDM5YRFYR0KGS608"
+                },
+                "retrievalId": "zc7158c46-f0c7-479f-a5b9-af463a25e518",
+                "references": [],
+                "fingerprint": "4d6d62bbb797efcdac5d988fed48f3db",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00044_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:12.422Z",
+                "createdBy": "Cengage Learning",
+                "id": "61b59e08-a3c4-40c1-a66c-63f4ece1622b"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "414",
+                            "title": "kaz00044_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "GKRXAZSJZEJ05LQGJ442"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "MSYC4RGZ9HN3H46TJ613"
+                },
+                "retrievalId": "zb4065c32-5f77-412d-afde-e5466365485c",
+                "references": [],
+                "fingerprint": "df40b59f15b494bc41879c154f1089e9",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00068_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:17.240Z",
+                "createdBy": "Cengage Learning",
+                "id": "edf77d07-3fe1-46f1-bce7-3c266215949b"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "HXGCB7LVB1BM5FQ4R134"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "244",
+                            "title": "kaz00068_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "FGCU1YRJW46HBRKCG816"
+                },
+                "retrievalId": "zfd158592-5f3b-4df7-a68f-3e4c8df2a674",
+                "references": [],
+                "fingerprint": "5d760ac172ffc6833f376b750d8f97c8",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00140_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:09.720Z",
+                "createdBy": "Cengage Learning",
+                "id": "dd21da36-ba1f-4873-b538-3f707d6185c8"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "KPGYY438MB9Z8F4F0771"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00140_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "ZWLUEWGYYXX3DHD28773"
+                },
+                "retrievalId": "z268284e6-c3b5-4971-b96d-07e0777e0bbf",
+                "references": [],
+                "fingerprint": "26e8e10103e9e45fbfe20f3c4c6c78da",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00120_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:12.190Z",
+                "createdBy": "Cengage Learning",
+                "id": "02d74b0d-1a40-4aa4-9b77-6056465ebb73"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "453",
+                            "title": "kaz00120_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "VCZCDL6HV2J6H0N7D903"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "NCYWQQJYVWMYE08SZ458"
+                },
+                "retrievalId": "z68261ebd-ce94-420f-b7bf-f26ba47f8ecd",
+                "references": [],
+                "fingerprint": "1596ef5cf70a2654c9cf862c19956eef",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00133_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:15.594Z",
+                "createdBy": "Cengage Learning",
+                "id": "32a8e74f-59ef-4fb9-bb75-7dc93f8339eb"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "UYEGRHHKD8E5TL0X6460"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "451",
+                            "title": "kaz00133_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "VLNAG011WR9LN9KXL891"
+                },
+                "retrievalId": "z2644577f-0e46-4928-871e-fa31c700615c",
+                "references": [],
+                "fingerprint": "c9756c1131ceaa2886c16a744cf19d48",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00071_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:09.028Z",
+                "createdBy": "Cengage Learning",
+                "id": "42ce1abe-da38-46bc-baf2-a9a3b9864042"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "498",
+                            "title": "kaz00071_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "PELDCWEZRCNCGHK57224"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "CRYXLWLFC70ZH2P5Z694"
+                },
+                "retrievalId": "zada94fb5-0f8a-4b09-8a85-750655566387",
+                "references": [],
+                "fingerprint": "3e2de13171efcf943b944c9612d12ae6",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00133_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:16.159Z",
+                "createdBy": "Cengage Learning",
+                "id": "17aece19-cbce-46be-92dc-c47c807c4916"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "UYEGRHHKD8E5TL0X6460"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00133_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "HEVTWQ5HK2NKL7K79258"
+                },
+                "retrievalId": "z2914396e-9d09-4947-a109-ec99dd3fdd50",
+                "references": [],
+                "fingerprint": "6cdc5ce3bbc0ba55a750a0db0f32d7ff",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00116_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:12.099Z",
+                "createdBy": "Cengage Learning",
+                "id": "1618b4fd-a59e-4eb4-a347-430d74246c57"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "493",
+                            "title": "kaz00116_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "TLRWQZXD53E2PMY3F618"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "AEVM7CS3ZPH0U8RHH138"
+                },
+                "retrievalId": "z7af7a7a9-c100-4c1f-9dee-e7f021c0dfab",
+                "references": [],
+                "fingerprint": "b0dd89a11804ac8b09eb5cfee6fc4c1f",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00120_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:06.042Z",
+                "createdBy": "Cengage Learning",
+                "id": "ed158afe-d31d-49fd-9b77-aa5c92f16931"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "VCZCDL6HV2J6H0N7D903"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "498",
+                            "title": "kaz00120_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "PBHJUX8J06XHJFGXW729"
+                },
+                "retrievalId": "za7f9406d-c9bd-4f2b-a18e-43c98762bf06",
+                "references": [],
+                "fingerprint": "af95bca4549645e71bd113d90b64e532",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00044_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:05.151Z",
+                "createdBy": "Cengage Learning",
+                "id": "fa7b0a46-2d46-4c6a-b9cc-a84dc0d518cc"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "496",
+                            "title": "kaz00044_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "GKRXAZSJZEJ05LQGJ442"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "XFCDXFW81PRSGKALR439"
+                },
+                "retrievalId": "z9e36c01c-58a2-43cb-ac6c-e325e30f51d6",
+                "references": [],
+                "fingerprint": "dcd50a1680af43c6ce61fe4ef68c0034",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00133_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:08.927Z",
+                "createdBy": "Cengage Learning",
+                "id": "d07c2f7c-9d46-4142-aa99-8d134a14d1c1"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00133_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "UYEGRHHKD8E5TL0X6460"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "CXCR4VUCBVPS3AT1F013"
+                },
+                "retrievalId": "z16d01354-2ba0-4e20-bded-107209332748",
+                "references": [],
+                "fingerprint": "86cff5cff744e452f9119ddbca37c467",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00073_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:07.841Z",
+                "createdBy": "Cengage Learning",
+                "id": "df29a668-f355-453f-bcae-999f21139b3b"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "185",
+                            "title": "kaz00073_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "PELDCWEZRCNCGHK57224"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "ASQUTN05SLPK68F2N559"
+                },
+                "retrievalId": "zf2a60efd-8284-483e-8acc-ff1d784e37df",
+                "references": [],
+                "fingerprint": "443c0601c09ce055274f4ca9812299c3",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00077_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:16.076Z",
+                "createdBy": "Cengage Learning",
+                "id": "65b572f2-2889-4c6e-99eb-78ddf7e81dfb"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "YTPPC89C3QU03JXXY578"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "493",
+                            "title": "kaz00077_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "ZYSEV8XM863B8VY6R473"
+                },
+                "retrievalId": "z1862d255-836c-437a-a5b7-6744548df26f",
+                "references": [],
+                "fingerprint": "23b1b257836e253445b9e385ecc299f9",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00062_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:10.758Z",
+                "createdBy": "Cengage Learning",
+                "id": "6e7b2717-971d-47b5-9283-3372e79fe495"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "501",
+                            "title": "kaz00062_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "KBEP3UMA1X89PV5NT936"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "EVWJ11ZHJFRZ9BSQR241"
+                },
+                "retrievalId": "zfbca5d48-ef08-480f-852a-b4d22fb063fe",
+                "references": [],
+                "fingerprint": "0f79b795d3f8370a5c948c1bc8269c11",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00069_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:11.691Z",
+                "createdBy": "Cengage Learning",
+                "id": "266b4e1e-516e-43af-958e-0a6d90cadeeb"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "500",
+                            "title": "kaz00069_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "FJPDTG72MMQDYL4S3359"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "YVXWYEC9BMACVHXFH675"
+                },
+                "retrievalId": "zffd58830-55ff-4096-88f4-4ad67aa5bbb6",
+                "references": [],
+                "fingerprint": "f1923fc117fca42f048edd23afb58038",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00048_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:12.339Z",
+                "createdBy": "Cengage Learning",
+                "id": "22bbac3c-2efe-4f6a-a61c-d7146283067b"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "YWCNAZV423Q2ESKMW797"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "512",
+                            "title": "kaz00048_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "FEPB84P4AKCDL1JWX507"
+                },
+                "retrievalId": "z9cf28ed9-06ea-4ecf-8bfd-3a0c0eea8e0e",
+                "references": [],
+                "fingerprint": "a7939985108f2a069cb81b818f8a3aad",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00044_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:11.365Z",
+                "createdBy": "Cengage Learning",
+                "id": "20f99195-7e02-48eb-851b-998912d07903"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "GKRXAZSJZEJ05LQGJ442"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00044_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "JLTMYPWJXR5YSZF8R636"
+                },
+                "retrievalId": "z95bfd35d-3522-4be3-a99c-4abcd224fcfd",
+                "references": [],
+                "fingerprint": "d7510ce416d8806ae0384e3ebed54855",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00068_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:17.357Z",
+                "createdBy": "Cengage Learning",
+                "id": "081b4562-fce9-444e-ac68-9a71d8b759e2"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "HXGCB7LVB1BM5FQ4R134"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "440",
+                            "title": "kaz00068_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "XNGT3JQL5E6MHTW43941"
+                },
+                "retrievalId": "z8b7acedf-9bd4-4a3a-bddc-e5d2140b24b6",
+                "references": [],
+                "fingerprint": "0a4a1bcb1c244701494485fac9263b69",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00067_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:13.760Z",
+                "createdBy": "Cengage Learning",
+                "id": "27481439-b40b-4c96-9a30-920f9eec317c"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00067_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "YXNUTENPEAF90808Z402"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "RKWBEBXZA2YLWYRCJ771"
+                },
+                "retrievalId": "za548db06-07c1-4c20-a29b-fbc52f68ef97",
+                "references": [],
+                "fingerprint": "fc749f7d15b183c27867553c2af86288",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00071_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:15.228Z",
+                "createdBy": "Cengage Learning",
+                "id": "994122ed-8866-44cb-a47f-3b98586940cf"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "495",
+                            "title": "kaz00071_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "PELDCWEZRCNCGHK57224"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "PRFN2LU9SYYK9WP38055"
+                },
+                "retrievalId": "za5951020-d288-4433-9f6b-24fade5fa894",
+                "references": [],
+                "fingerprint": "851c613783dd7bdb301d977de9b0915b",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00077_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:05.057Z",
+                "createdBy": "Cengage Learning",
+                "id": "54269af8-c7e5-4e88-82b9-50a79c7211b7"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "502",
+                            "title": "kaz00077_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "YTPPC89C3QU03JXXY578"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "BZCWA4GMN90LEUESQ332"
+                },
+                "retrievalId": "z4dcd2bc9-0d25-4e66-aaa3-5d566f2a9b8d",
+                "references": [],
+                "fingerprint": "985c6d160072e377915279f45f5a13f6",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00058_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:07.983Z",
+                "createdBy": "Cengage Learning",
+                "id": "034c1ae8-39e6-496a-ac11-eb23b5459d19"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "ZAPRPP9ZZ84S0ZKD1479"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "456",
+                            "title": "kaz00058_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "AVYLSSX022R4MGCTE131"
+                },
+                "retrievalId": "za3acfd48-6275-4d8b-b84f-4e33ed3340d1",
+                "references": [],
+                "fingerprint": "5f96bbf06792ff8fb3b132b0c2a37ecb",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00072_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:11.163Z",
+                "createdBy": "Cengage Learning",
+                "id": "15dc2831-13f6-478e-be8f-3235cc770ca4"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "GKFPADD3UTUBFXRPK269"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "502",
+                            "title": "kaz00072_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "DKBDH1NGQT3KDKAL3666"
+                },
+                "retrievalId": "z92e3c246-f47a-4750-8cea-4052b5489146",
+                "references": [],
+                "fingerprint": "d7b54bfe57d9eb7f1e8448609be8b371",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00048_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:17.769Z",
+                "createdBy": "Cengage Learning",
+                "id": "032d69ff-d8e6-4dc2-a19e-8f3d44e06db0"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "YWCNAZV423Q2ESKMW797"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00048_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "RVJFE3QNBC39Q6YJS227"
+                },
+                "retrievalId": "z98ca7322-9708-492c-b643-5eb11e95a752",
+                "references": [],
+                "fingerprint": "8df3a4585c5ef48cbe5b086a3d6d302f",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00048_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:16.154Z",
+                "createdBy": "Cengage Learning",
+                "id": "2ef0e1cc-7157-49e3-805d-825fe273cf72"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "498",
+                            "title": "kaz00048_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "YWCNAZV423Q2ESKMW797"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "UDFWVKXS0J6VDW98K292"
+                },
+                "retrievalId": "z9a3d9f00-1bba-41a8-8747-f33917b057c4",
+                "references": [],
+                "fingerprint": "c770cc62a45cdd6911f58d37fa1d9651",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00116_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:13.761Z",
+                "createdBy": "Cengage Learning",
+                "id": "2bbc7a41-7cae-4285-8428-de41e8903e4b"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "473",
+                            "title": "kaz00116_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "TLRWQZXD53E2PMY3F618"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "AHXWUH7R71BDQVMQR961"
+                },
+                "retrievalId": "z0c3f663f-a40a-49cb-94d7-fc8311dd8cbb",
+                "references": [],
+                "fingerprint": "9ea1bd041955bac3fe19fe2410affcdb",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00068_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:09.162Z",
+                "createdBy": "Cengage Learning",
+                "id": "e4af94cc-564b-4c5b-984e-5428b02e5581"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "HXGCB7LVB1BM5FQ4R134"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00068_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "EVRWAX5UW49Q4L7C6554"
+                },
+                "retrievalId": "z85f3e914-69d3-435f-9b21-d768255459b8",
+                "references": [],
+                "fingerprint": "35485a5edd09b796446acabb3272d55d",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00058_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:10.455Z",
+                "createdBy": "Cengage Learning",
+                "id": "e75a1112-9d7b-46c7-90a8-e106dff1bfd5"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "ZAPRPP9ZZ84S0ZKD1479"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "500",
+                            "title": "kaz00058_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "FEEASBCHBWQDY945W889"
+                },
+                "retrievalId": "z695c7192-76ed-4b60-987f-a768b7b41f2e",
+                "references": [],
+                "fingerprint": "f28e20d5bf9348257cd2b7a3eb646500",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00057_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:13.159Z",
+                "createdBy": "Cengage Learning",
+                "id": "2f9e3675-3bbf-4c06-8938-c718b4762474"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "XPALMK8F2EXJVYFZ1707"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "497",
+                            "title": "kaz00057_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "XWET50P40YQVCRF58738"
+                },
+                "retrievalId": "z30312935-2240-4cee-958d-1003807078cf",
+                "references": [],
+                "fingerprint": "4bee1b2fa7101b03e87ac30346c35203",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00118_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:08.520Z",
+                "createdBy": "Cengage Learning",
+                "id": "4a377104-2e82-4e93-861c-a701d9a95e38"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "456",
+                            "title": "kaz00118_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "XVTZU7LZJXDZ91Q8L221"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "SFAAKHX6XKY9BN7KB052"
+                },
+                "retrievalId": "z746dc908-9eb9-4f92-9bfa-f207f5ebdd25",
+                "references": [],
+                "fingerprint": "64f69f26dba264bdcc5c120234203b20",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00067_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:09.893Z",
+                "createdBy": "Cengage Learning",
+                "id": "ff708394-6473-472f-9cd5-06cd63ccfd49"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "YXNUTENPEAF90808Z402"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "497",
+                            "title": "kaz00067_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "YWRCWVEVBDY4ZQGH8038"
+                },
+                "retrievalId": "zb956be8e-0d41-4edb-976e-fb54e66333fb",
+                "references": [],
+                "fingerprint": "bfda02870109050a96c1c22937e683da",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00073_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:05.826Z",
+                "createdBy": "Cengage Learning",
+                "id": "6882fbfa-6754-4a5b-8f11-290d0f5a0f5d"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "322",
+                            "title": "kaz00073_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "PDZD3UWYCSCDUAJX1037"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "XCRQUW4MMPUF7NYWZ909"
+                },
+                "retrievalId": "zcb2f34bb-dc24-4507-a231-2d1609f51abc",
+                "references": [],
+                "fingerprint": "a68c5918fcd45e9f40b1c7d15dc7ae67",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00077_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:09.126Z",
+                "createdBy": "Cengage Learning",
+                "id": "32ccd507-6b33-4b85-a306-31cf109e8d76"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "YTPPC89C3QU03JXXY578"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "502",
+                            "title": "kaz00077_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "JCPJ9J8UXYP7V6FXE392"
+                },
+                "retrievalId": "z9afd260d-5b4b-40e4-a4b2-bf773a5551ff",
+                "references": [],
+                "fingerprint": "4d6d62bbb797efcdac5d988fed48f3db",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00044_meed sample title"
+                    }
+                },
+                "creationDate": "2018-12-12T11:16:25.437-05:00",
+                "createdBy": "Cengage Learning",
+                "id": "2d790688-d227-4f55-8b89-02f4b090320b"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "414",
+                            "title": "kaz00044_meed sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "KLFP4DWK4QGLJP8BD778"
+                },
+                "retrievalId": "z50d21a98-db84-46f6-a0c2-96b78dd103e9",
+                "references": [],
+                "fingerprint": "801362f23f0140eba02a9fb099296f94",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00058_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:14.749Z",
+                "createdBy": "Cengage Learning",
+                "id": "a043cebc-4278-4cda-9f52-35d371e2282e"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00058_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "ZAPRPP9ZZ84S0ZKD1479"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "CSZKBVXXC32ZBQ8V2695"
+                },
+                "retrievalId": "z84e22867-22a4-4d85-a1b3-39ea389ebb4a",
+                "references": [],
+                "fingerprint": "2ddfdb74ec9372c611871c761c3c7c14",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00069_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:11.432Z",
+                "createdBy": "Cengage Learning",
+                "id": "5d07841e-caaf-4da2-80e7-d7381ebebd28"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "FJPDTG72MMQDYL4S3359"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00069_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "LPNPFJYZ4GX4QLGXR814"
+                },
+                "retrievalId": "ze7b42fc0-21a7-4ebc-a6cd-e8e2b3fa7329",
+                "references": [],
+                "fingerprint": "25c5df054d0a45fc0fb3a1cb8d579ba0",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00120_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:09.394Z",
+                "createdBy": "Cengage Learning",
+                "id": "99263237-0517-43b9-8b54-8e9e334c88e6"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "500",
+                            "title": "kaz00120_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "VCZCDL6HV2J6H0N7D903"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "KTAC0RCMDP0ET1RX1250"
+                },
+                "retrievalId": "z72147ef6-5ba6-4d15-a20d-577dd19b307a",
+                "references": [],
+                "fingerprint": "07b3274308241ae0f6668ccc88707b42",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00072_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:08.751Z",
+                "createdBy": "Cengage Learning",
+                "id": "1827bfac-f5b0-429d-b256-8a55bf728eca"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "GKFPADD3UTUBFXRPK269"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "504",
+                            "title": "kaz00072_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "KUCSQHDAD1GF2GR9D630"
+                },
+                "retrievalId": "z28d3a33a-fdc1-4e3c-bff9-356b5ad8334d",
+                "references": [],
+                "fingerprint": "2a8e72c32a7391805fcb9d5f00a455b2",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00107_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:17.153Z",
+                "createdBy": "Cengage Learning",
+                "id": "46afb0c7-6af1-4840-b8d0-95c6f3d85040"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "NBGUU49CEW2QKJN2Q485"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "498",
+                            "title": "kaz00107_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "LDAAWVBXJHRNQDAU9349"
+                },
+                "retrievalId": "za701ec60-572a-4f44-aa36-051e13dfac6c",
+                "references": [],
+                "fingerprint": "8eb059f1543791257a1d67afe257cccb",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00069_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:15.636Z",
+                "createdBy": "Cengage Learning",
+                "id": "afaf07bf-2151-418d-b344-536f8129f4c8"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "FJPDTG72MMQDYL4S3359"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00069_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "VVEBNVU8RMWCKNEY2977"
+                },
+                "retrievalId": "zcd42e26c-68f1-4602-899c-1503c4332380",
+                "references": [],
+                "fingerprint": "6bc4cf400b1341975aa18731e691e5f7",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00049_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:04.290Z",
+                "createdBy": "Cengage Learning",
+                "id": "ab4ae67a-f3ce-4047-9525-3fb2f44b355b"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "PXRWVP0MHR6C2RVCP003"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "498",
+                            "title": "kaz00049_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "BXURWH43DNNDPZ4PC958"
+                },
+                "retrievalId": "z663d2cbd-35d9-4b50-b790-ec110b1e88c4",
+                "references": [],
+                "fingerprint": "c0f029e5a41fca0ba5392172c83503d5",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00140_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:14.637Z",
+                "createdBy": "Cengage Learning",
+                "id": "0fccce22-1369-4296-b203-53cc628843ba"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "499",
+                            "title": "kaz00140_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "KPGYY438MB9Z8F4F0771"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "MVPUN2VRT6YMV5XEG730"
+                },
+                "retrievalId": "zba32104a-03d9-4e6e-8c31-3be66e8841d9",
+                "references": [],
+                "fingerprint": "858b87147f52ef2ee49e3f9a8a464c79",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00107_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:07.068Z",
+                "createdBy": "Cengage Learning",
+                "id": "5a1de4e3-65aa-4cc0-a3e9-652832bb55d2"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "NBGUU49CEW2QKJN2Q485"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00107_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "XMGZP6L01HP71ED4Y600"
+                },
+                "retrievalId": "z9fcc1393-d124-4889-b1d6-15e2ad3b69b2",
+                "references": [],
+                "fingerprint": "21ba123a3594670f6c1b1428d6e74fb7",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00063_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:12.977Z",
+                "createdBy": "Cengage Learning",
+                "id": "034ed618-3a2b-4614-acc7-694e046efd52"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "HMSQTS2UDEZX60EBV842"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "319",
+                            "title": "kaz00063_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "NTXA3GVHRYB7CZYF5513"
+                },
+                "retrievalId": "zf501086d-83b6-477a-9056-8dc14729cb73",
+                "references": [],
+                "fingerprint": "7ab3fecb2350176ed5f9c45c1c6eff1d",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00071_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:16.871Z",
+                "createdBy": "Cengage Learning",
+                "id": "c1795ff3-0a0b-434e-a182-ba1bb8586676"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "PELDCWEZRCNCGHK57224"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00071_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "VZLJKR6HARRH52WEX442"
+                },
+                "retrievalId": "ze983d95d-8120-493b-973f-2b5f0acfe8f0",
+                "references": [],
+                "fingerprint": "d65c1ac5173b9728e478068ff2ead973",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00072_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:07.198Z",
+                "createdBy": "Cengage Learning",
+                "id": "1560e33d-4ad6-4989-96c9-99a21b6b4eac"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "GKFPADD3UTUBFXRPK269"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00072_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "XBLWPFLQ6DRL6D8L2690"
+                },
+                "retrievalId": "z4be864a9-6cd0-45eb-bc93-6c4984ae38de",
+                "references": [],
+                "fingerprint": "0e6829ee638dc0e89211dfd684ccad67",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00057_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:13.886Z",
+                "createdBy": "Cengage Learning",
+                "id": "008c53ed-613b-47ab-85a1-824cb6cbcbec"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00057_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "XPALMK8F2EXJVYFZ1707"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "SVTS8LVY7K5N64NXG331"
+                },
+                "retrievalId": "z71134590-fd58-43e3-be46-d9c445236e71",
+                "references": [],
+                "fingerprint": "8cc52539a22b3e9de857480e626b3015",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00063_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:12.978Z",
+                "createdBy": "Cengage Learning",
+                "id": "156bc98a-771b-4824-81f0-3fb735932e60"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "HMSQTS2UDEZX60EBV842"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "495",
+                            "title": "kaz00063_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "TQLDFD2SQ6LV5MAEL922"
+                },
+                "retrievalId": "ze6b83f06-8b96-4fe9-9389-36c62e0f3498",
+                "references": [],
+                "fingerprint": "6f1b66837c4e39ea535b9f24f24c5a72",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00062_med sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:13.782Z",
+                "createdBy": "Cengage Learning",
+                "id": "1f03c845-3fde-479a-bc99-7b94382a5c58"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "502",
+                            "title": "kaz00062_med sample title",
+                            "credit": "Copyright &copy; Cengage Learning. All Rights Reserved",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "KBEP3UMA1X89PV5NT936"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "ZNQB57HQPCSS63M2H968"
+                },
+                "retrievalId": "z4b8d1290-59d1-45a8-9570-c2576057834b",
+                "references": [],
+                "fingerprint": "b6b3dc18eadfaf0a67587101efc0ec59",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00140_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:03.707Z",
+                "createdBy": "Cengage Learning",
+                "id": "e2f391e7-88cc-4457-995a-78eded477643"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "KPGYY438MB9Z8F4F0771"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "498",
+                            "title": "kaz00140_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "JNLN4C0VGTL3EL33V015"
+                },
+                "retrievalId": "zc0b5517e-b582-4f0c-a56c-abd89ccfe82c",
+                "references": [],
+                "fingerprint": "a3cfc6cebb5b6681d4aad15f6b60075a",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00118_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:17.009Z",
+                "createdBy": "Cengage Learning",
+                "id": "4c39f7ae-eedb-40f2-aa2c-cacb3c7a522a"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "498",
+                            "title": "kaz00118_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "XVTZU7LZJXDZ91Q8L221"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "NRFP4GR4T4JKK2J64665"
+                },
+                "retrievalId": "ze59733fb-a067-417a-a85e-25bafa120117",
+                "references": [],
+                "fingerprint": "21ed2a14817011e4aabfdd2745cb9bba",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00062_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:10.639Z",
+                "createdBy": "Cengage Learning",
+                "id": "16ed358b-990d-45fd-991d-5cbff6525fe5"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "title": "kaz00062_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "KBEP3UMA1X89PV5NT936"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "ANUQK417GRBU7KRYC471"
+                },
+                "retrievalId": "za28dd0b2-7259-4fa9-94b8-6a92325e08fe",
+                "references": [],
+                "fingerprint": "092835e5b483dd09f6bd0a697ba42bb0",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00107_hi sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:11.563Z",
+                "createdBy": "Cengage Learning",
+                "id": "5396801b-58c6-4d92-8362-53a11a13ac02"
+            },
+            "facets": [
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "497",
+                            "title": "kaz00107_hi sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                },
+                {
+                    "references": {
+                        "asset": [
+                            "NBGUU49CEW2QKJN2Q485"
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "entity": {
+                "coords": {
+                    "tenantId": "cengage",
+                    "fileType": "media-asset",
+                    "fileId": "YAQQ2R8WW092YJ55200"
+                },
+                "retrievalId": "zbcd94e92-2e7f-4876-b9e1-6d8eaacbe1ee",
+                "references": [],
+                "fingerprint": "714a9d4e3c615ab6b495597247836929",
+                "attributes": {
+                    "subType": {
+                        "type": "media-asset",
+                        "subType": "video",
+                        "version": "1",
+                        "title": "kaz00116_lo sample title"
+                    }
+                },
+                "creationDate": "2018-12-05T18:21:05.777Z",
+                "createdBy": "Cengage Learning",
+                "id": "922c1063-7431-4d4e-a9a4-a46fe4d7d1e6"
+            },
+            "facets": [
+                {
+                    "references": {
+                        "asset": [
+                            "TLRWQZXD53E2PMY3F618"
+                        ]
+                    }
+                },
+                {
+                    "metadata": {
+                        "GEYSER": {
+                            "bitrate": "330",
+                            "title": "kaz00116_lo sample title",
+                            "@type": "soa::v2::external::video-metadata",
+                            "videoFormat": "mp4"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
